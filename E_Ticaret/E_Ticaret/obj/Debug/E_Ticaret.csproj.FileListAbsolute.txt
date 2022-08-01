@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\bin\Debug\E_Ticaret.exe.config
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\bin\Debug\E_Ticaret.exe
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\bin\Debug\E_Ticaret.pdb
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.Properties.Resources.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.csproj.GenerateResource.cache
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.exe
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.pdb
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.BuyerLogin.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.SellerLogin.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.RegisterBuyer.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.RegisteSeller.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.Sipariş_sayfası.resources
+C:\Users\User\Desktop\E_Ticaret\E_Ticaret\obj\Debug\E_Ticaret.Seller_Management.resources
